@@ -1,0 +1,24 @@
+:root {
+
+    /* COLOR PALLETE */
+    --warna-putih: #FFFFFF;
+    --warna-light-gray: #E8ECF8; 
+    --warna-ashy-blue: #64748B;
+    --warna-biru: #3B4FB8;
+    --warna-amber: #F59E0B;
+    --warna-biru-gelap: #0F172A;
+
+}
+
+nav {
+    font-family: 'Poppins', sans-serif;
+    display: flex;
+    gap: 1200px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.navbar-link {
+    display: flex;
+    gap: 20px;
+}
